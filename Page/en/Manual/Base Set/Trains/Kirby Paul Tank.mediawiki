@@ -2,14 +2,14 @@
 {{Description}}Cheap and small Steam Engine with low power and speed.{{Description}
 
 :{|
-|[[File: File/en/Manual/Base Set/Trains/Kirbypaul/Kirbypaulwithvans.png]]
+|[[File:File/en/Manual/Base Set/Trains/Kirbypaul/Kirbypaulwithvans.png|frame|Kirby Paul Tank Engine]]
 |}
 
 ==Statistics==
 {| {{en/Wikitable}} border="1" cellspacing="0" cellspacing="3"
 |- style="background-color:#ffdead"
 |- style="background-color:#dfefef"
-! '''Rail Types''' 
+! '''Rail Type''' 
 ! '''Cost '''
 ! '''Speed''' 
 ! '''Power'''
@@ -35,9 +35,9 @@
 |}
 
 ==Gameplay==
-{{#ifeq:{{{Gameplay|}}}||The Kirby Paul Tank is the first available train engine included with the Baseset for the Temperate Climate. Its low power makes it unfit for transporting any kind of freight. However, its low cost of purchase and operation, alongside with its low speed, make it a viable choice for short Passenger and Mail lines with frequent stops.
+{{Gameplay}}The Kirby Paul Tank is the first available train engine included with the Baseset for the Temperate Climate. Its low power makes it unfit for transporting any kind of freight. However, its low cost of purchase and operation, alongside with its low speed, make it a viable choice for short Passenger and Mail lines with frequent stops.
 
-When handling Passenger and Mail cars, the Kirby Paul Tank can pull a train approximately 4 tiles long without hindering its speed, acceleration and climbing ability.|{{{Gameplay}}}}}
+When handling Passenger and Mail cars, the Kirby Paul Tank can pull a train approximately 4 tiles long without hindering its speed, acceleration and climbing ability.{{Gameplay}}
 
 ==Trivia==
 *The Kirby-Paul Tank is based on the [https://en.wikipedia.org/wiki/GWR_5700_Class] trains that ran across the UK on the first half of the 20th Century.
