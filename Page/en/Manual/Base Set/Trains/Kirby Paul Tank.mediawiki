@@ -1,7 +1,9 @@
-{{en/Incomplete}} 
-
 ==Description==
-{{#ifeq:{{{Description|}}}||Cheap and small Steam Engine with low power and speed.|{{{Description}}}}}
+{{Description}}Cheap and small Steam Engine with low power and speed.{{Description}
+
+:{|
+|[[File/en/Manual/Base Set/Trains/Kirbypaul/Kirbypaulwithvans.png]]
+|}
 
 ==Statistics==
 {| {{en/Wikitable}} border="1" cellspacing="0" cellspacing="3"
